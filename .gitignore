@@ -1,0 +1,7 @@
+/.classpath
+/.project
+build.xml
+/lib/
+/manifest.mf
+/nbproject/
+.idea
