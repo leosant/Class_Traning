@@ -1,4 +1,4 @@
-package model;
+package com.clock.model;
 
 import java.util.Date;
 

@@ -1,4 +1,6 @@
-import model.Clock;
+package com.clock;
+
+import com.clock.model.Clock;
 
 import java.util.ArrayList;
 import java.util.List;
