@@ -1,6 +1,5 @@
 package aula2exercicio2;
 
-import aula2exercicio3.Aula2Exercicio3;
 import java.util.Scanner;
 
 /**
